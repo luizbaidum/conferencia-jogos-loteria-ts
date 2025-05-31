@@ -1,0 +1,24 @@
+{
+  "name": "conferencia-jogos-loteria-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizbaidum/conferencia-jogos-loteria-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/luizbaidum/conferencia-jogos-loteria-ts/issues"
+  },
+  "homepage": "https://github.com/luizbaidum/conferencia-jogos-loteria-ts#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
